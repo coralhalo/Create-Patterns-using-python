@@ -2,11 +2,8 @@
 Create a pattern using python. 
 
 This is the pattern that I drew: 
-o o   o o   o     o   o o o   o o o
-   o o   o o o   o o o     o o
-  o   o o     o o     o   o   o
- o o o   o   o   o   o o o o o o
-o     o o o o o o o o           o
+![image](https://user-images.githubusercontent.com/92804590/159185549-76f45617-48ed-4bbe-a7e2-ef032ea8d433.png)
+
 
 To break the problem in small segments, I did the placing o in the middle, placing o randomly anywhere using the random function.
 This was the first row. 
